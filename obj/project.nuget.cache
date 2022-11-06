@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nR25LIjsD99Q9QCfJ2JqV2cAoVWg4Dsa5So0nf7J3GWTS3CBGrgqLf9FdmMALD41hJbGQjj/hc7k3VSdA9c60A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\TI\\BYU-CSE210\\cse210-projects\\developer\\Unit04\\Unit04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
